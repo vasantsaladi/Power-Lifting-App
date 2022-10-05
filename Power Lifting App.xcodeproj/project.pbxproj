@@ -16,6 +16,18 @@
 		2C2F886D28EC9FF60025DBBC /* Power_Lifting_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2F886C28EC9FF60025DBBC /* Power_Lifting_AppTests.swift */; };
 		2C2F887728EC9FF60025DBBC /* Power_Lifting_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2F887628EC9FF60025DBBC /* Power_Lifting_AppUITests.swift */; };
 		2C2F887928EC9FF60025DBBC /* Power_Lifting_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2F887828EC9FF60025DBBC /* Power_Lifting_AppUITestsLaunchTests.swift */; };
+		2C51705F28ECABD300F87192 /* PushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51705E28ECABD300F87192 /* PushViewController.swift */; };
+		2C51706128ECAC7400F87192 /* PullViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706028ECAC7400F87192 /* PullViewController.swift */; };
+		2C51706328ECAC8500F87192 /* LegsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706228ECAC8500F87192 /* LegsViewController.swift */; };
+		2C51706928ECC22000F87192 /* WeightedDipsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706828ECC22000F87192 /* WeightedDipsViewController.swift */; };
+		2C51706B28ECC23300F87192 /* BenchPressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706A28ECC23300F87192 /* BenchPressViewController.swift */; };
+		2C51706D28ECC24700F87192 /* OverheadPressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706C28ECC24700F87192 /* OverheadPressViewController.swift */; };
+		2C51706F28ECC32200F87192 /* WeightedPullUpsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51706E28ECC32200F87192 /* WeightedPullUpsViewController.swift */; };
+		2C51707128ECC33300F87192 /* PowerCleansViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51707028ECC33300F87192 /* PowerCleansViewController.swift */; };
+		2C51707328ECC34800F87192 /* DeadliftViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51707228ECC34800F87192 /* DeadliftViewController.swift */; };
+		2C51707528ECC36000F87192 /* FrontSquatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51707428ECC36000F87192 /* FrontSquatViewController.swift */; };
+		2C51707728ECC38200F87192 /* BackSquatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51707628ECC38200F87192 /* BackSquatViewController.swift */; };
+		2C51707928ECC39C00F87192 /* BarbellLungeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C51707828ECC39C00F87192 /* BarbellLungeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		2C2F887228EC9FF60025DBBC /* Power Lifting AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Power Lifting AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C2F887628EC9FF60025DBBC /* Power_Lifting_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Power_Lifting_AppUITests.swift; sourceTree = "<group>"; };
 		2C2F887828EC9FF60025DBBC /* Power_Lifting_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Power_Lifting_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C51705E28ECABD300F87192 /* PushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushViewController.swift; sourceTree = "<group>"; };
+		2C51706028ECAC7400F87192 /* PullViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullViewController.swift; sourceTree = "<group>"; };
+		2C51706228ECAC8500F87192 /* LegsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegsViewController.swift; sourceTree = "<group>"; };
+		2C51706828ECC22000F87192 /* WeightedDipsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightedDipsViewController.swift; sourceTree = "<group>"; };
+		2C51706A28ECC23300F87192 /* BenchPressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPressViewController.swift; sourceTree = "<group>"; };
+		2C51706C28ECC24700F87192 /* OverheadPressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverheadPressViewController.swift; sourceTree = "<group>"; };
+		2C51706E28ECC32200F87192 /* WeightedPullUpsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightedPullUpsViewController.swift; sourceTree = "<group>"; };
+		2C51707028ECC33300F87192 /* PowerCleansViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerCleansViewController.swift; sourceTree = "<group>"; };
+		2C51707228ECC34800F87192 /* DeadliftViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeadliftViewController.swift; sourceTree = "<group>"; };
+		2C51707428ECC36000F87192 /* FrontSquatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrontSquatViewController.swift; sourceTree = "<group>"; };
+		2C51707628ECC38200F87192 /* BackSquatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackSquatViewController.swift; sourceTree = "<group>"; };
+		2C51707828ECC39C00F87192 /* BarbellLungeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarbellLungeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +127,21 @@
 				2C2F885728EC9FF50025DBBC /* SceneDelegate.swift */,
 				2C2F885928EC9FF50025DBBC /* ViewController.swift */,
 				2C2F885B28EC9FF50025DBBC /* Main.storyboard */,
+				2C51706028ECAC7400F87192 /* PullViewController.swift */,
+				2C51706228ECAC8500F87192 /* LegsViewController.swift */,
 				2C2F885E28EC9FF60025DBBC /* Assets.xcassets */,
 				2C2F886028EC9FF60025DBBC /* LaunchScreen.storyboard */,
 				2C2F886328EC9FF60025DBBC /* Info.plist */,
+				2C51705E28ECABD300F87192 /* PushViewController.swift */,
+				2C51706828ECC22000F87192 /* WeightedDipsViewController.swift */,
+				2C51706A28ECC23300F87192 /* BenchPressViewController.swift */,
+				2C51706C28ECC24700F87192 /* OverheadPressViewController.swift */,
+				2C51706E28ECC32200F87192 /* WeightedPullUpsViewController.swift */,
+				2C51707028ECC33300F87192 /* PowerCleansViewController.swift */,
+				2C51707228ECC34800F87192 /* DeadliftViewController.swift */,
+				2C51707428ECC36000F87192 /* FrontSquatViewController.swift */,
+				2C51707628ECC38200F87192 /* BackSquatViewController.swift */,
+				2C51707828ECC39C00F87192 /* BarbellLungeViewController.swift */,
 			);
 			path = "Power Lifting App";
 			sourceTree = "<group>";
@@ -260,7 +296,19 @@
 			files = (
 				2C2F885A28EC9FF50025DBBC /* ViewController.swift in Sources */,
 				2C2F885628EC9FF50025DBBC /* AppDelegate.swift in Sources */,
+				2C51705F28ECABD300F87192 /* PushViewController.swift in Sources */,
+				2C51707928ECC39C00F87192 /* BarbellLungeViewController.swift in Sources */,
+				2C51706328ECAC8500F87192 /* LegsViewController.swift in Sources */,
+				2C51706D28ECC24700F87192 /* OverheadPressViewController.swift in Sources */,
+				2C51706128ECAC7400F87192 /* PullViewController.swift in Sources */,
+				2C51706B28ECC23300F87192 /* BenchPressViewController.swift in Sources */,
+				2C51707328ECC34800F87192 /* DeadliftViewController.swift in Sources */,
+				2C51707728ECC38200F87192 /* BackSquatViewController.swift in Sources */,
+				2C51707528ECC36000F87192 /* FrontSquatViewController.swift in Sources */,
 				2C2F885828EC9FF50025DBBC /* SceneDelegate.swift in Sources */,
+				2C51706928ECC22000F87192 /* WeightedDipsViewController.swift in Sources */,
+				2C51706F28ECC32200F87192 /* WeightedPullUpsViewController.swift in Sources */,
+				2C51707128ECC33300F87192 /* PowerCleansViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
