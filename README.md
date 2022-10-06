@@ -2,7 +2,7 @@
 
 - This is a basic Power Lifting App to analyze past lifting sessions to help predict future strength and maintain optimal progress.
 
-- The App remembers users previous lifts so user can recall past sessions memory and get suggests current sessions weight .
+- The App remembers users previous lifts so user can recall past sessions memory and get suggests current sessions weight.
 
 
 
